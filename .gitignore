@@ -1,0 +1,8 @@
+#Git Ignore Files
+
+build/
+*.so
+.DS_Store
+
+img_inputs/
+img_outputs/
